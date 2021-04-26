@@ -1,6 +1,14 @@
 # myapp
 
-A new Flutter project.
+Um projeto simples do curso da fluterando 
+
+https://www.youtube.com/playlist?list=PLlBnICoI-g-d-J57QIz6Tx5xtUDGQdBFB
+
+![image](https://user-images.githubusercontent.com/1509692/116070698-513f2d00-a663-11eb-8752-9302b9c39f69.png)
+
+![image](https://user-images.githubusercontent.com/1509692/116070752-5ef4b280-a663-11eb-9c48-53c9dd2c93c0.png)
+
+
 
 ## Getting Started
 
